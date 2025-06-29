@@ -40,7 +40,7 @@ A modern, real-time chat application built with ❤️ using cutting-edge web te
 
 ---
 
-## 📁 Project Structure
+## <details> <summary>📁 Project Structure (click to expand)</summary>
 Etalks/
 └── fullstack-chat-app/
 ├── backend/
@@ -60,3 +60,4 @@ Etalks/
 │ │ ├── pages/
 │ │ └── store/
 └── screenshots/
+<details>
