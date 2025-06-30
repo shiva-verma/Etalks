@@ -41,7 +41,7 @@ A modern, real-time chat application built with ❤️ using cutting-edge web te
 ---
 
 ## 📁 Project Structure
-Etalks/
+QuickChat/
 └── fullstack-chat-app/
 ├── backend/
 │ └── src/
