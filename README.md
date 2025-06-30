@@ -21,7 +21,7 @@ A modern, real-time chat application built with ❤️ using cutting-edge web te
 ![Login Screenshot](./screenshots/Login.png)
 
 ### 🔐 Sign Up  
-![Sign up Screenshot](./screenshots/Login.png)
+![Sign up Screenshot](./screenshots/Signup.png)
 
 ### 💬 Chat Interface  
 ![Chat Interface Screenshot](./screenshots/chat.png)
